@@ -109,7 +109,7 @@ jupyter notebook notebook.ipynb
 Lalu pilih *Restart & Run All*. Di Google Colab, unggah file CSV ke folder `data/` (atau ke direktori yang sama dengan notebook) sebelum menjalankan sel.
 
 ## Dashboard Online
-URL deployment tercantum di `url.txt` (diisi setelah dashboard di-deploy ke Streamlit Cloud).
+URL deployment tercantum di `url.txt` (https://ecommerce-analysis-xkakzvjtokhytpvbuqmxgj.streamlit.app/).
 
 ## Fitur Dashboard
 **Visualisasi untuk tiga Business Questions**
